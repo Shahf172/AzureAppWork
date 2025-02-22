@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAppWork", "AzureAppWork.csproj", "{0C91A377-6F12-4570-89B7-0BCB9A8ACF0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C91A377-6F12-4570-89B7-0BCB9A8ACF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C91A377-6F12-4570-89B7-0BCB9A8ACF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C91A377-6F12-4570-89B7-0BCB9A8ACF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C91A377-6F12-4570-89B7-0BCB9A8ACF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5BA51C3-082D-4792-9F7F-F6C94A83DD42}
+	EndGlobalSection
+EndGlobal
