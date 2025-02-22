@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureAppWork")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66013b2030b8a93718d33ea358e3495e19b2d4ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6850a7835a3ac83738dd3e69ccd532a208360e75")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureAppWork")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureAppWork")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
