@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace AzureAppWork.Controllers
 {
     [ApiController]
+    [Authorize]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
@@ -19,7 +20,7 @@ namespace AzureAppWork.Controllers
             _logger = logger;
         }
 
-        [Authorize]
+
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
